@@ -1,7 +1,7 @@
 {
   "name": "pulsar-align-regexp",
   "main": "./lib/align-regexp",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Aligns selections using regular expressions, continuation of https://github.com/danhper/atom-align-regexp",
   "keywords": [
     "align",
