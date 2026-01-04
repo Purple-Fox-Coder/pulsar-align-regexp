@@ -14,7 +14,7 @@ version I aim to maintain in this version
 
 ## Installation
 
-Install the `align-regexp` package using atom package manager, if you use the CLI:
+Install the `align-regexp` package using pulsar package manager, if you use the CLI:
 
 ```
 ppm install pulsar-align-regexp
