@@ -1,6 +1,14 @@
-# align-regexp Atom package
+# align-regexp Pulsar package
 
-This package is more or less the equivalent of Emacs `align-regexp` command for Atom.
+This package is more or less the equivalent of Emacs `align-regexp` command for Pulsar.
+
+Continuation and fork of https://github.com/danhper/atom-align-regexp, I am working
+on this version of it because I love the package but it has not been updated in almost
+a decade, and has some very obvious bugs, which I hope to fix.  
+
+Since this is my (Anna's) fork of it, I will modify it to work how I want it to,
+but the goal is to maintain the simplicity, whatever you could do in the previous
+version I aim to maintain in this version
 
 ![Demo](https://cloud.githubusercontent.com/assets/1436271/16177861/6b836c04-3673-11e6-9506-38c785bd2e50.gif)
 
@@ -9,7 +17,7 @@ This package is more or less the equivalent of Emacs `align-regexp` command for 
 Install the `align-regexp` package using atom package manager, if you use the CLI:
 
 ```
-apm install align-regexp
+ppm install pulsar-align-regexp
 ```
 
 ## Usage

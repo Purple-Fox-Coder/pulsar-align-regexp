@@ -1,16 +1,23 @@
 {
-  "name": "align-regexp",
+  "name": "pulsar-align-regexp",
   "main": "./lib/align-regexp",
   "version": "0.4.0",
-  "description": "Aligns selection using regexp",
+  "description": "Aligns selections using regular expressions, continuation of https://github.com/danhper/atom-align-regexp",
   "keywords": [
     "align",
-    "alignment"
+    "alignment",
+    "pulsar",
+    "regular",
+    "expression",
+    "regex",
+    "regexp",
+    "emacs",
+    "selection"
   ],
   "activationCommands": {
     "atom-workspace": "align-regexp:align-selection"
   },
-  "repository": "https://github.com/tuvistavie/atom-align-regexp",
+  "repository": "https://github.com/Purple-Fox-Coder/pulsar-align-regexp",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
